@@ -17,12 +17,12 @@ from requests.adapters import HTTPAdapter, Retry
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
 
-OneDriveShareURL = "https://skillgod-my.sharepoint.com/:f:/g/personal/mib_niconico_icu/EgROIhHAdfNDol5t7KtzcfQBvVaROsHpQ7ZQaYvgriDLvQ?e=kzlLWB"
+OneDriveShareURL = "https://hitachimako-my.sharepoint.com/:f:/g/personal/sourcepc1_hitachimako_onmicrosoft_com/EnkROeK03AtCj01EwqkBzpkBj1PwNjywkMJ_QjnCxPn1VQ"
 
 aria2Link = "http://localhost:6800/jsonrpc"
 aria2Secret = ""
 
-isDownload = False
+isDownload = Ture
 downloadNum = "0"  # 1,2-4,5
 
 fileCount = 0
