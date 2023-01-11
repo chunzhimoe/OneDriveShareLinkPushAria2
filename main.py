@@ -22,7 +22,7 @@ OneDriveShareURL = "https://hitachimako-my.sharepoint.com/:f:/g/personal/sourcep
 aria2Link = "http://localhost:6800/jsonrpc"
 aria2Secret = ""
 
-isDownload = Ture
+isDownload = True
 downloadNum = "0"  # 1,2-4,5
 
 fileCount = 0
